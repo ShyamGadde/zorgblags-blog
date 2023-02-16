@@ -36,3 +36,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
