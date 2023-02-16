@@ -140,3 +140,7 @@ footer ul {
 footer li {
   display: inline-block;
 }
+
+.attribution {
+  font-variant: small-caps;
+}
