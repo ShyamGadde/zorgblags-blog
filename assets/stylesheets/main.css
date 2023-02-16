@@ -119,3 +119,8 @@ main {
   display: table;
   clear: both;
 }
+
+.posted {
+  font-size: 0.8rem;
+  color: #89A611;
+}
