@@ -27,3 +27,12 @@ h2 {
   color: #a51f10;
   margin: 0;
 }
+
+a {
+  color: #DA0090;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
