@@ -163,7 +163,7 @@ footer ul {
   gap: 1.5rem;
 }
 
-footer div {
+.attribution {
   font-size: 12px;
   margin-top: -0.5rem;
   font-variant: small-caps;
