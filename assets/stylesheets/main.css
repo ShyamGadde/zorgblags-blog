@@ -149,7 +149,13 @@ footer li {
   display: inline-block;
 }
 
-.attribution {
+.attribution > a {
   font-variant: small-caps;
   color: lightgray;
 }
+
+.attribution > a:hover {
+  color: white;
+  text-decoration: underline dotted white;
+}
+
