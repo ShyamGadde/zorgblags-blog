@@ -168,3 +168,9 @@ footer ul {
   margin-top: -0.5rem;
   font-variant: small-caps;
 }
+
+small {
+  font-variant: small-caps;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
